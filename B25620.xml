@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentation of Mary Butcher, now confined in Worcester-City-Goal, on suspicion of murdering her male bastard child, in April last.</title>
+            <author>Butcher, Mary, confined in Worcester-City-gaol.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25620</idno><idno type="EEBO-CITATION">99893689</idno>
+  <idno type="VID">200868</idno>
+  <idno type="EEBO-PROQUEST">2240929155</idno>
+  
+            <idno type="STC">Wing L285aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[120]</idno>
+            <idno type="STC">ESTC T1563</idno>
+            <idno type="PROQUEST">ocm99893689</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893689e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200868)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[122])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentation of Mary Butcher, now confined in Worcester-City-Goal, on suspicion of murdering her male bastard child, in April last.</title>
+                  <author>Butcher, Mary, confined in Worcester-City-gaol.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Text in two columns, initial.</note>
+                  <note>First line: "Ye blooming maids I pray give ear."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Butcher, Mary, confined in Worcester-City-gaol --  Trials, litigation, etc.</term>
+               <term type="topical_term">Infanticide --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:200868:1"/>
+            <head>The LAMENTATION Of MARY BUTCHER, Now confined in WORCESTER-CITY-GOAL, on Suspicion of murdering her Male Bastard Child, in April last.</head>
+            <lg>
+               <l>YE blooming Maids I pray give Ear</l>
+               <l>To what I lay before ye,</l>
+               <l>I am a young Woman, you shall hear</l>
+               <l>A melancholy Story:</l>
+               <l>I by a false Man was with Child,</l>
+               <l>Which caused all my Woe;</l>
+               <l>His treach'rous Tongue did me beguile,</l>
+               <l>And prov'd my Overthrow.</l>
+            </lg>
+            <lg>
+               <l>My new-born Infant I did destroy,</l>
+               <l>In Grief I'm now surrounded,</l>
+               <l>Likewise the Man that me betray'd,</l>
+               <l>His Senses are confounded:</l>
+               <l>Mary Butcher it is my Name,</l>
+               <l>In Tears I now do own it,</l>
+               <l>Being delivered by myself,</l>
+               <l>I in a Dunghill threw it.</l>
+            </lg>
+            <lg>
+               <l>So now observe, my pretty Maids,</l>
+               <l>And mind the Application,</l>
+               <l>And shun the base deceitful Man,</l>
+               <l>Let what will be his Station;</l>
+               <l>Some only court their Will to gain,</l>
+               <l>Which oftimes prove our Ruin;</l>
+               <l>Shame and Disgrace to all our Friends,</l>
+               <l>And ends in our Undoing.</l>
+            </lg>
+            <lg>
+               <l>Mind not their flattering fawning Tongues,</l>
+               <l>Which make young Girls adore them,</l>
+               <l>The honest Youth, tho' e'er so poor,</l>
+               <l>Is a thousand Times before them.</l>
+               <l>Your Parents mind for to obey,</l>
+               <l>And what your Friends advises,</l>
+               <l>For Trouble always come to those,</l>
+               <l>Who good Advice despises.</l>
+            </lg>
+            <lg>
+               <l>Young Maidens now a Warning take,</l>
+               <l>By my unhappy Fate,</l>
+               <l>No Presents from the Men accept,</l>
+               <l>But shun the gilded Bait.</l>
+               <l>I very soon did prove with Child,</l>
+               <l>I knew it to my Shame;</l>
+               <l>No Comfort then I e'er could get,</l>
+               <l>And then myself did blame.</l>
+            </lg>
+            <lg>
+               <l>Poor Wretch! I thought to hide my Shame</l>
+               <l>For fear my Friends should know it,</l>
+               <l>But by the Murder now you see</l>
+               <l>To Multitudes I show it;</l>
+               <l>So think of me young Women all,</l>
+               <l>Who in Wor'ster City Goal's confin'd,</l>
+               <l>Till the great Assize comes on,</l>
+               <l>For to take my Trial I must be resign'd.</l>
+            </lg>
+            <lg>
+               <l>Oh! think of this, ye youthful Maidens</l>
+               <l>If e'er it's your unhappy Lot,</l>
+               <l>To be seduc'd, on all Occasions,</l>
+               <l>Then from your Friends pray hide it not;</l>
+               <l>You surely will find some to pity,</l>
+               <l>If that you act a Mother's Part,</l>
+               <l>'Tis better with it go a begging,</l>
+               <l>Than a Conscience to feel the Smart.</l>
+            </lg>
+            <lg>
+               <l>So how can I expect to have,</l>
+               <l>In this World any Favour,</l>
+               <l>I've broke the Laws of God and Man,</l>
+               <l>All through my Ill Behaviour.</l>
+               <l>From Time to Time run on in Sin,</l>
+               <l>But now at last I'm taken,</l>
+               <l>And put in Prison where I lie,</l>
+               <l>All Friends has me forsaken.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
